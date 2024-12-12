@@ -30,6 +30,7 @@ System Type:               x64-based PC
 Processor(s):              1 Processor(s) Installed.
 
                            [01]: Intel64 Family 6 Model 183 Stepping 1 GenuineIntel ~2100 Mhz
+                           ```
                            
  Directory of C:\Users\Skaur_IT241021
 
@@ -140,4 +141,5 @@ C:\Users\Skaur_IT241021>dir
                
               20 Dir(s)  886,130,159,616 bytes free
               
-           ...   
+           ~~~
+           
